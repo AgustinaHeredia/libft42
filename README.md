@@ -24,3 +24,6 @@ En bash: make
 
 Esto generará el archivo libft.a.
 
+#Calificación
+<img width="882" alt="Captura de pantalla 2024-01-22 a las 20 10 03" src="https://github.com/AgustinaHeredia/libft42/assets/119814051/9b2c29be-2b10-4632-8701-a57f703eb3ae">
+Puedes seguir mi progreso en 42 en https://profile.intra.42.fr/users/agheredi
